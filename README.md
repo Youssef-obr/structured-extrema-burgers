@@ -98,10 +98,3 @@ Experimental code and reproduction scripts may be added progressively.
 
 The arXiv citation will be added once the submission is publicly available.
 
----
-
-## Contact
-
-**Youssef Oubari**  
-IMT Atlantique, France  
-📫 youssef.oubari@imt-atlantique.net
