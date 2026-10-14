@@ -96,5 +96,5 @@ Experimental code and reproduction scripts may be added progressively.
 
 ## Citation
 
-The arXiv citation will be added once the submission is publicly available.
+https://arxiv.org/abs/2609.07952
 
